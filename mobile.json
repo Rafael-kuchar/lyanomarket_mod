@@ -45,7 +45,7 @@
     },
 	{
   "type": "shelf",
-  "title": "Our Favorites",
+  "title": "New + Updated Apps",
   "packages": [
     "net.yougli.shakethemall", "com.halfbrick.fruitninjafree", "com.google.android.apps.androidify", "jp.ne.ibis.ibispaintx.app", "org.ppsspp.ppsspp"
   ]
@@ -55,7 +55,7 @@
       "margin_bottom": 15,
       "variants": [
         {
-          "image": "http://market.lyano.ovh/assets/ctrbanner.jpg",
+          "image": "https://github.com/Rafael-kuchar/lyanomarket_mod/raw/refs/heads/main/cut_the_rope",
           "action": "details",
           "target": "com.zeptolab.ctr.ads"
         },
