@@ -60,7 +60,7 @@
           "target": "com.zeptolab.ctr.ads"
         },
         {
-          "image": "http://market.lyano.ovh/assets/fruitninjabanner.jpg",
+          "image": "https://github.com/Rafael-kuchar/lyanomarket_mod/raw/refs/heads/main/fruit_ninja_free",
           "action": "details",
           "target": "com.halfbrick.fruitninjafree"
         },
