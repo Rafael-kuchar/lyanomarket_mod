@@ -65,9 +65,9 @@
           "target": "com.halfbrick.fruitninjafree"
         },
         {
-          "image": "http://market.lyano.ovh/api/home_images/discord.png",
+          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/subway_surfers.png",
           "action": "webview",
-          "target": "http://market.lyano.ovh/api/discord.html"
+          "target": "com.kiloo.subwaysurf"
         }
       ]
     },
