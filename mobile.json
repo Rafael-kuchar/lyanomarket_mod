@@ -63,11 +63,6 @@
           "image": "https://github.com/Rafael-kuchar/lyanomarket_mod/raw/refs/heads/main/fruit_ninja_free",
           "action": "details",
           "target": "com.halfbrick.fruitninjafree"
-        },
-        {
-          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/subway_surfers.png",
-          "action": "details",
-          "target": "com.kiloo.subwaysurf"
         }
       ]
     },
