@@ -24,9 +24,9 @@
         },
         {
           "image": "http://market.lyano.ovh/api/home_images/music.png",
-          "action": "webview",
-          "target": "http://market.lyano.ovh/api/placeholder.html",
-		  "ratio" : 4
+          "action": "details",
+          "target": "com.android.music",
+		  "ratio" : 5
         },
 		        {
           "image": "http://market.lyano.ovh/api/home_images/books.png",
