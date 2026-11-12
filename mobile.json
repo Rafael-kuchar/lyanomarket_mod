@@ -60,12 +60,12 @@
           "target": "com.zeptolab.ctr.ads"
         },
 		 {
-          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/subway_surfers.png",
+          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/subway_surfers",
           "action": "details",
           "target": "com.kiloo.subwaysurf"
         },
 		{
-          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/pou.png",
+          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/pou",
           "action": "details",
           "target": "me.pou.app"
         },
