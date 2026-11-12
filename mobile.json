@@ -18,8 +18,8 @@
         },
 		{
           "image": "http://market.lyano.ovh/api/home_images/movies.png",
-          "action": "webview",
-          "target": "http://market.lyano.ovh/api/placeholder.html",
+          "action": "details",
+          "target": "dp.ws.popcorntime",
 		  "ratio" : 4
         },
         {
