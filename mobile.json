@@ -30,8 +30,8 @@
         },
 		        {
           "image": "http://market.lyano.ovh/api/home_images/books.png",
-          "action": "webview",
-          "target": "http://market.lyano.ovh/api/placeholder.html",
+          "action": "details",
+          "target": "org.geometerplus.zlibrary.ui.android",
 		  "ratio" : 4
         },
 		{
