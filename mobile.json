@@ -64,6 +64,11 @@
           "action": "details",
           "target": "com.kiloo.subwaysurf"
         },
+		{
+          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/pou.png",
+          "action": "details",
+          "target": "me.pou.app"
+        },
         {
           "image": "https://github.com/Rafael-kuchar/lyanomarket_mod/raw/refs/heads/main/fruit_ninja_free",
           "action": "details",
