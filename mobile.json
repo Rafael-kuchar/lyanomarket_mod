@@ -69,6 +69,11 @@
           "action": "details",
           "target": "me.pou.app"
         },
+		{
+          "image": "https://raw.githubusercontent.com/Rafael-kuchar/lyanomarket_mod/refs/heads/main/minecraft_PE",
+          "action": "details",
+          "target": "com.mojang.minecraftpe"
+        },
         {
           "image": "https://github.com/Rafael-kuchar/lyanomarket_mod/raw/refs/heads/main/fruit_ninja_free",
           "action": "details",
