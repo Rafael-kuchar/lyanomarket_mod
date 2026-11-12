@@ -26,7 +26,7 @@
           "image": "http://market.lyano.ovh/api/home_images/music.png",
           "action": "details",
           "target": "com.android.music",
-		  "ratio" : 5
+		  "ratio" : 3
         },
 		        {
           "image": "http://market.lyano.ovh/api/home_images/books.png",
