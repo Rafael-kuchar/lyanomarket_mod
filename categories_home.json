@@ -1,16 +1,16 @@
 {
   "categories": [
     {
-      "title": "Our Favorites",
+      "title": "Our Favorite Apps",
       "packages": ["net.yougli.shakethemall", "com.instagram.android", "com.halfbrick.fruitninjafree", "com.google.android.apps.androidify", "jp.ne.ibis.ibispaintx.app", "org.ppsspp.ppsspp"]
     },
     {
-      "title": "Utilities",
-      "packages": ["com.rechild.advancedtaskkiller", "com.urbandroid.sleep", "com.mboyadjiev.batteryfullnotification", "com.jrummy.root.browserfree"]
+      "title": "See What's Trending",
+      "packages": ["com.zeptolab.ctr.ads", "com.kiloo.subwaysurf", "me.pou.app", "com.mojang.minecraftpe", "com.halfbrick.fruitninjafree"]
     },
 	{
-      "title": "Customization",
-      "packages": ["kaka.wallpaper.forest", "com.jetblacksoftware.xmastreewallpaperpaid", "com.tribok.android.livewallpaper.icswallpaper.pro", "com.androidwasabi.livewallpaper.jellybean", "com.xllusion.livewallpaper.spectrum", "com.xllusion.livewallpaper.mood", "com.mx.bokehlwp", "edu.stanford.nicd.chroma", "com.maxelus.icegalaxylivewallpaper", "com.balomomo.waterdrop", "com.BatteryUseStatus", "com.jrummy.apps.boot.animations"]
+      "title": "Top Free in Games",
+      "packages": ["com.halfbrick.fruitninjafree", "com.supercell.clashofclans", "me.pou.app", "com.zeptolab.ctr.ads", "com.kiloo.subwaysurf", "com.halfbrick.jetpackjoyride"]
     },
 	{
       "title": "Popular Games",
